@@ -3,10 +3,10 @@
 A Frontend React website that mimics an online phone selling store.
 
 #### Features
-* Allow users to browse through the available products
-* Allow users to add items to cart
-* Allow users to check items in cart and checkout items
-* Allow users to pay using Paypal API
+* Allow users to browse through the available products.
+* Allow users to add items to cart.
+* Allow users to check items in cart and checkout items.
+* Allow users to pay using Paypal API.
 
 #### Tech Stack
 * React
